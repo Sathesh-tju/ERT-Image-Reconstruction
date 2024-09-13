@@ -15,7 +15,7 @@
     * Standard Scaling
 
 3. Reconstruction
-    * ConvRNN (Hybrid of Conv1D and BiLSTM) With FireFly Optimization
+    * Sparse constraints for stacked encoder With shuffled shepherd Optimization
 
 4. Evaluation
     * Relative Image Error (Minimum, Maximum, Average), root mean square error
